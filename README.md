@@ -1,4 +1,3 @@
-# Simpleform
 
 # Simple Form Management System
 
