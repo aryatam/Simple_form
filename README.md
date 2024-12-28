@@ -1,4 +1,4 @@
-# simple_form
+# Simpleform
 
 # Simple Form Management System
 
