@@ -1,0 +1,5 @@
+com\example\formmanager\model\Form.class
+com\example\formmanager\repository\FormRepository.class
+com\example\formmanager\FormManagerApplication.class
+com\example\formmanager\controller\FormController.class
+com\example\formmanager\model\Field.class
